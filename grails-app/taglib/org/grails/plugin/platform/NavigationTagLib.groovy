@@ -40,7 +40,7 @@ class NavigationTagLib {
     ]
     
     def grailsNavigation
-    def grailsApplication
+//FIXME ?    def grailsApplication
 
     /**
      * Render a primary navigation menu
